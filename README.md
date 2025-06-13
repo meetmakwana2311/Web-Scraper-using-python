@@ -40,8 +40,7 @@ cd web-scraper
 ```bash
 pip install -r requirements.txt
 ```
-
-> If `requirements.txt` isn't available, manually install:
+OR 
 
 ```bash
 pip install beautifulsoup4 requests
@@ -73,8 +72,12 @@ python web_scraper.py
 ---
 
 ## 📸 Screenshots
+![1](https://github.com/user-attachments/assets/d9ff77b3-1e91-4f78-a22a-7a2886b7c617)
 
-*Add a few sample screenshots of terminal output or scraped JSON results here if desired.*
+![2](https://github.com/user-attachments/assets/ae0c15f2-4213-46cb-b36f-996fe885ce45)
+
+![image](https://github.com/user-attachments/assets/7f2c3fbc-cba3-4faa-8ebd-967f4d7d841c)
+
 
 ---
 
